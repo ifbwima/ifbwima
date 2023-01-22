@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **enzogreneche@gmail.com**
 
-- 📄 Know about my experiences [enzogreneche.pdf](ifbwima/Enzo greneche.pdf)
+- 📄 Know about my experiences [ifbwima/Enzo greneche.pdf](enzogreneche.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
