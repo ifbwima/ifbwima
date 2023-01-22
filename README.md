@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifbwima&label=Profile%20views&color=0e75b6&style=flat" alt="ifbwima" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifbwima" alt="ifbwima" /></a> </p>
-
 - 🔭 I’m currently working on **my 1st year dev master**
 
 - 🌱 I’m currently learning **C, Java**
