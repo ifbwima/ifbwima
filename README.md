@@ -32,7 +32,7 @@
 <!-- About Section -->
  # About me
  
-<p>
+<p><br/><br/>
  <img align="right" width="350" src="/assets/tony.gif" alt="tony gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
