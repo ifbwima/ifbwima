@@ -33,10 +33,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/tony.gif" alt="tony gif" /><br/><br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: <a href="mailto:enzogreneche@gmail.com">enzogreneche@gmail.com</a><br/><br/>
+ <img align="right" width="350" src="/assets/tony.gif" alt="tony gif" /><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/><br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:enzogreneche@gmail.com">enzogreneche@gmail.com</a><br/>
 
 </p>
 
